@@ -1,0 +1,13 @@
+write a program to print student is pass or fail
+enter sno:214117156042
+enter student name:S.MANOJNA
+enter group name:DATA SCIENCE
+enter statistics marks:60
+enter python marks68
+enter DBMS marks:69
+Sno: 214117156042
+Name: S.MANOJNA
+Group: DATA SCIENCE
+Total: 197
+Result:
+pass
